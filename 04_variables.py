@@ -45,7 +45,8 @@
 # MI_CONSTANTE = 3.14  # UPPER_CASE -> Constantes
 
 # MI_CONSTANTE = 2
-# print(MI_CONSTANTE)  # Python no tiene constantes, pero se pueden simular con una clase
+# print(MI_CONSTANTE)
+# Python no tiene constantes, pero se pueden simular con una clase
 # Se escriben en UPPER_CASE para indicar que no deben cambiarse
 
 # 123123_variable = "ok"  # No se puede empezar con un número
